@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**h4ckdepy/h4ckdepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Lsandun Network Technology Co., Ltd
+- 🌱 I’m currently learning Computer science and technology
+- 💬 Ask me about PHP development/Web security
+- 📫 How to reach me: 
+      Blog:https://blog.happysec.cn
+      Mail:i@happysec.cn
+      TG:https://t.me/h4ckdepy
+
+Members of whitecap100 security attack and Defense Laboratory.
+Full stack development/Columnist/Internet Security enthusiasts.
