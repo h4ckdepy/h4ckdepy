@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+热爱技术,但是菜鸟一个。
 
-- 🔭 I’m currently working on Lsandun Network Technology Co., Ltd
-- 🌱 I’m currently learning Computer science and technology
-- 💬 Ask me about PHP development/Web security
-- 📫 How to reach me: <br />
-      - Blog:https://blog.happysec.cn <br />
-      - Mail:i@happysec.cn <br />
-      - TG:https://t.me/h4ckdepy <br />
+稍微会一点代码审计和开发,希望师傅们多带我赚钱。
 
-Members of whitecap100 security attack and Defense Laboratory.
-Full stack development/Columnist/Internet Security enthusiasts.
+我的博客:https://blog.happysec.cn
+
+希望看到这个的你一切都好哟。
+
+^^
