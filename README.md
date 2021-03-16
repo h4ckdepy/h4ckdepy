@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-热爱技术,但是菜鸟一个。
+Web Security Researcher
 
-稍微会一点代码审计和开发,希望师傅们多带我赚钱。
+My Blog:https://blog.happysec.cn
 
-我的博客:https://blog.happysec.cn
-
-希望看到这个的你一切都好哟。
+Hope everything goes well!
 
 ^^
