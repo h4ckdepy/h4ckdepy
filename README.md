@@ -1,45 +1,13 @@
-### Hi there 👋
+# 🕶About Me
 
-  Web Security Researcher & Full Stack Developer @ The Loner Security Team
-
-  My Blog:https://blog.happysec.cn
-
-  Hope everything goes well!
+<img align="right" wight=193 height=193 src="https://avatars.githubusercontent.com/u/42985524?v=4" />
 
 
-### What did I do ?
+ - 全栈开发、网络安全爱好者、漏洞赏金猎人
+ - 大学在读、实习于某安全公司实验室
 
-  #### DevelopMents?
+# ✨ Contact Me
 
-    https://github.com/h4ckdepy/depypocs
-
-    https://github.com/h4ckdepy/SeveTools
-
-    https://github.com/h4ckdepy/depyword
-
-    .....
-
-
-  #### CVES
-
-    CVE-2020-24877
-
-    CVE-2021-27817
-
-    CVE-2020-21927
-
-    CVE-2021-28412
-
-    ....
-
-
-### Contact Me
-
-  i@happysec.cn
-
-
-###  Others
-
-  Continue Working Continue Studying!
-
-  ^^ love you!
+ - 邮箱: i#happysec.cn
+ - 博客: https://blog.happysec.cn
+ - 微信公众号「明晚去哪吃」
