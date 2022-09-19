@@ -18,7 +18,7 @@ A vulnerability management framework for vulnerability utilization, asset collec
 
 > i[at]rce.ink
 
-> Wechat official account: 明晚吃火锅
+> nslookup -q=TXT contact.rce.ink 114.114.114.114
 
 #### 🤯 Stats
 
