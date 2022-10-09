@@ -1,4 +1,4 @@
-#### Hi,My husband, you came to see depy again ❤️
+#### Hi,My husband
 
 #### Doing EveryDay
 
