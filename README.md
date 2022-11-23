@@ -3,11 +3,11 @@
 ## 🔭 Working
 
 - Security Program Development
-- Web Security
-- Bounty&Bug Hunter
+- Web Security / Mobile Security
+- Bounty Hunter
 
 ## 🌱 Works
-- [Un1kPoc](https://github.com/h4ckdepy/Un1kPoc) :Very professional vulnerability POC management and batch utilization tool
+
 - [Un1kMsg](https://github.com/h4ckdepy/Un1kMsg) :A platform for subscribing to message notifications and using APIs to push channel information
 - ...
 
