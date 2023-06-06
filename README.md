@@ -1,7 +1,8 @@
 # depy's Profile
 
-## 🔭 Working in [Meituan](https://github.com/Meituan)
+## 🔭 Working
 
+- Working in [Meituan](https://github.com/Meituan) Group
 - Security Program Development
 - Web Security / Mobile Security
 - Bounty Hunter
