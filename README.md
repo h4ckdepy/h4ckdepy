@@ -4,7 +4,7 @@
 
 - Working in [Meituan](https://github.com/Meituan) Information Security Department.
 - Works（Still being updated and maintained）:
-    * [Un1kBlog](https://docs.rce.ink/) , A document management system based on SaaS (Software as a Service) model, where users can subscribe to services to use this platform for document creation, editing, management, and sharing.
+    * [DepyDocs](https://docs.rce.ink/) , A document management system based on SaaS (Software as a Service) model, where users can subscribe to services to use this platform for document creation, editing, management, and sharing.
     * [Un1kMsg](https://un1kmsg.rce.ink/) , A multi-channel message push platform.
 
 - A Bounty Hunter
